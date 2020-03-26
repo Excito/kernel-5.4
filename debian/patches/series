@@ -7,3 +7,7 @@
 0104-Reset-when-powered-off-or-halt-option.patch
 0105-fix-xfs-build.patch
 0200-Excito-B3-config.patch
+0300-Excito-B2-board.patch
+0301-Ath-regd-optional.patch
+0302-vsc8601_and_clockskewfix.patch
+0400-Excito-B2-config.patch
